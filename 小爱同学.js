@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 小爱同学
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.0.5
  * @description 召唤小爱同学陪聊，干啥都行
  * @rule ^小爱([^\n]+)$
