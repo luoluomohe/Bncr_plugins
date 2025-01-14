@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 奶酪
- * @@team 红灯区
+ * @team 红灯区
  * @version 1.1.0
  * @description 美味的奶酪蛋糕
  * @rule ^(配置文件) (获取|删除) ([^ \n]+) ([1-9]+)$
