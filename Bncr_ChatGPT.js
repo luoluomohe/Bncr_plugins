@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name Bncr_ChatGPT
- * @origin Bncr团队
+ * @team Bncr团队
  * @version 1.0.0
  * @description ChatGpt聊天 accessToken 版本
  * @rule ^ai ([\s\S]+)$
