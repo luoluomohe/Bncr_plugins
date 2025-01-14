@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 登录
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.0.8
  * @description Ark对接工具
  * @rule pt_key=[\S]{15,};[ ]*pt_pin=[\S]{2,};
