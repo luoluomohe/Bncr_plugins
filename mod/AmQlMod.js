@@ -2,7 +2,7 @@
  * @name AmQlMod
  * @description 青龙相关SDK,本仓库插件依赖此模块,务必保持最新版
  * @author Aming
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.1.1
  * @module true
  * @public false
