@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 举牌
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.0.1
  * @description 任务监控
  * @rule ^(举牌|jp)([^\n]+)$
