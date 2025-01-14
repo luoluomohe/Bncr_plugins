@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @description 监听某个人或群,当触发关键字,转发到指定目的地
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.0.0
  * @name 消息转发
  * @rule [\s\S]+
