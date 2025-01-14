@@ -2,7 +2,7 @@
  * @name USER_AGENTS
  * @version v1.0.4
  * @author Aming
- * @origin 红灯区
+ * @team 红灯区
  * @description 🐒本仓库插件依赖此模块
  * @module true
  * @public false
