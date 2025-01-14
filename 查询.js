@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 资产查询
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.1.5
  * @description 奶酪_资产查询 移植于ccwav
  * @name 奶酪-资产查询
