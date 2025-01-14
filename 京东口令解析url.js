@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @description 🐒解析京东口令
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.0.1
  * @name 京东口令解析url
  * @rule ^(jd|pz)jx([\s\S]+)$
