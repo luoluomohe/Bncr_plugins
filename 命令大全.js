@@ -1,7 +1,7 @@
 /**
  * @author Doraemon
  * @name 命令大全
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.0.0
  * @description 无界命令大全
  * @rule ^(命令)$
