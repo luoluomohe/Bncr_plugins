@@ -2,7 +2,7 @@
  * @author Aming
  * @version v1.1.3
  * @description 查询、定时推送京东云无线宝收益、速率、插件状态，发jdc帮助查看命令
- * @origin 红灯区
+ * @team 红灯区
  * @name JDC无线宝
  * @rule ^jdc(今日收入|运行状态|可用积分|帮助|测试)$
  * @rule ^jdc(重启|升级) ([\s\S]+)$
