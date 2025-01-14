@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 自建sign
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.0.7
  * @description 自建sign
  * @public false
