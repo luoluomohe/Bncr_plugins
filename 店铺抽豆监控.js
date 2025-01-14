@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @description 🐒转发抽豆线报，自动设置变量并运行脚本，具体使用看插件说明
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.0.4
  * @name 店铺抽豆监控
  * @rule (店铺抽豆)[\s\S]+(u\.jd\.com)
