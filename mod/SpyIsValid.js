@@ -2,7 +2,7 @@
  * @name SpyIsValid
  * @version v1.0.0
  * @author Aming
- * @origin 红灯区
+ * @team 红灯区
  * @create_at 2033-10-27 11:12:09
  * @description 判断是否有效线报
  * @module true
