@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name 迁移红灯区数据到bncr
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.0.0
  * @description 迁移傻妞红灯区数据到bncr
  * @rule ^(迁移红灯区数据到bncr|pinDB数据转换)$
