@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name BncrScan
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.1.9
  * @description BncrScan
  * @rule ^(店铺扫一扫|首页扫一扫|wuxian扫一扫|精选扫一扫)$
