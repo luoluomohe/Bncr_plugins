@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @description 自动回复
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.0.0
  * @name 自动回复
  * @rule ^(删除自动回复) ([^\n]+)$
