@@ -2,7 +2,7 @@
  * @name AmToolMod
  * @version v1.1.7
  * @author Aming
- * @origin 红灯区
+ * @team 红灯区
  * @description 个人工具模块
  * @module true
  * @public false
