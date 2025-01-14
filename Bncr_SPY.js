@@ -1,7 +1,7 @@
 /**
  * @author Aming
  * @name BncrSPY
- * @origin 红灯区
+ * @team 红灯区
  * @version 1.2.3
  * @description 任务监控
  * @rule ^spy(定时任务|定时插队) ([\,\d\w\ *-]+\*)([\s\S]+)
